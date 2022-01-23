@@ -3,6 +3,6 @@
 3) Work
 
 Hobbies: 
-  *Board Games
-  *Outside Activities
-  *Reading Books
+  - Board Games
+  - Outside Activities
+  - Reading Books
