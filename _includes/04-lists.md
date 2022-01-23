@@ -1,6 +1,7 @@
-1) Family
-2) Education
-3) Work
+Life Priorities:
+  1) Family
+  2) Education
+  3) Work
 
 Hobbies: 
   - Board Games
